@@ -1,10 +1,10 @@
 [package]
-name = "tobj"
+name = "tobj-f64"
 version = "3.2.3"
 edition = "2018"
 authors = ["Will Usher <will@willusher.io>", "Moritz Moeller <virtualritz@protonmail.com>"]
 
-description = "A lightweight OBJ loader in the spirit of tinyobjloader"
+description = "A lightweight OBJ loader in the spirit of tinyobjloader, double precision version"
 homepage = "https://github.com/Twinklebear/tobj"
 documentation = "https://docs.rs/tobj/"
 repository = "https://github.com/Twinklebear/tobj"
