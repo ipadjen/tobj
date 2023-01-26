@@ -1,4 +1,4 @@
-# `tobj` – Tiny OBJ Loader
+# `tobj-f64` – Tiny OBJ Loader (double precision)
 
 [![Crate](https://img.shields.io/crates/v/tobj.svg)](https://crates.io/crates/tobj)
 ![Build Status](https://github.com/Twinklebear/tobj/workflows/CI/badge.svg)
