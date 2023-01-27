@@ -1,5 +1,5 @@
 [package]
-name = "tobj-f64"
+name = "tobj"
 version = "3.2.3"
 edition = "2018"
 authors = ["Will Usher <will@willusher.io>", "Moritz Moeller <virtualritz@protonmail.com>"]
